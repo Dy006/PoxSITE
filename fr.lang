@@ -1,0 +1,300 @@
+<menu.welcome.text.1>Bienvenue,</menu.welcome.text.1>
+<menu.welcome.text.2>Pox est un projet open-source. Vous êtes interessé ?</menu.welcome.text.2>
+<menu.welcome.button.1>Recevoir les actualités</menu.welcome.button.1>
+<menu.welcome.button.2>Participer au projet</menu.welcome.button.2>
+
+<menu.nav.1>Acceuil</menu.nav.1>
+<menu.nav.2>Nouvautés</menu.nav.2>
+<menu.nav.3>Programmes</menu.nav.3>
+<menu.nav.4>Tutoriels</menu.nav.4>
+<menu.nav.5>Wake on lan</menu.nav.5>
+<menu.nav.6>Communication</menu.nav.6>
+<menu.nav.7>Contact</menu.nav.7>
+<menu.nav.8>FAQ</menu.nav.8>
+<menu.nav.9>Inscription</menu.nav.9>
+
+<menu.user.1>Maison</menu.user.1>
+<menu.user.2>Contacts</menu.user.2>
+<menu.user.3>Mails</menu.user.3>
+<menu.user.4>Actualité</menu.user.4>
+<menu.user.5>FAQ</menu.user.5>
+<menu.user.6>Mes tutoriels</menu.user.6>
+<menu.user.7>Mes programmes</menu.user.7>
+<menu.user.8>Déconnexion</menu.user.8>
+<menu.user.9>Aide</menu.user.9>
+
+<menu.signin.text.1>Pseudo</menu.signin.text.1>
+<menu.signin.text.2>Mot de passe</menu.signin.text.2>
+<menu.signin.button.1>Connection</menu.signin.button.1>
+
+<menu.carousel.title.1>Pox projet !</menu.carousel.title.1>
+<menu.carousel.title.2>LoQuiî</menu.carousel.title.2>
+<menu.carousel.title.3>TheHanger</menu.carousel.title.3>
+<menu.carousel.title.4>PoxCMS</menu.carousel.title.4>
+<menu.carousel.text.1>Créateur de logiciels gratuits et open-sources pour Linux et Windows</menu.carousel.text.1>
+<menu.carousel.text.2>Un programme complet et léger de discution régulièrement mis à jour.</menu.carousel.text.2>
+<menu.carousel.text.3>Un pendu complet comportant un mode multijoueur (deux personnes), un système de score mais aussi de nombreux niveaux personnalisables.</menu.carousel.text.3>
+<menu.carousel.text.4>Un CMS simple d'utilisation pour créer et administrer votre site web. Ce projet est actuellement en cours de développement.</menu.carousel.text.4>
+<menu.carousel.button.1>Commencer dès aujourd'hui</menu.carousel.button.1>
+
+<index.title1.1>Pox, c'est quoi ?</index.title1.1>
+<index.title1.2>Envie de participer ?</index.title1.2>
+<index.title1.3>Des problèmes ?</index.title1.3>
+<index.title2.1>Un projet open-source.</index.title2.1>
+<index.title2.2>Des idées ?</index.title2.2>
+<index.title2.3> Plusieurs solutions.</index.title2.3>
+<index.text.1>Pox est une communauté créant des programmes gratuits et open-sources compatibles Linux et pour toutes les version de Windows.</index.text.1>
+<index.text.2>Vous êtes les bienvenues pour participer à notre projet. Vous pourrez programmer ou designer un programme. Si vous avec des idées, vous pouvez poster un sujet dans le forum dans la rubrique "Divers".</index.text.2>
+<index.text.3>Si vous avez un problème, vous pouvez poster un sujet sur le forum dans le rubrique "Probleme". Une équipe vous répondra le plus rapidement possible.</index.text.3>
+
+<index.span4.button.1>En savoir plus</index.span4.button.1>
+<index.span4.title.1>Apprendre la programmation</index.span4.title.1>
+<index.span4.title.2>Le projet RallyCam06</index.span4.title.2>
+<index.span4.title.3>Le projet Pox</index.span4.title.3>
+<index.span4.text.1>Il existe une multitude de tutoriels sur internet sur la base de la programmation mais nous vous conseillons fortement ceux du site du zéro.</index.span4.text.1>
+<index.span4.text.2>Téo Carletti a crée un projet qui a pour but de rassembler des vidéos de différentes courses de rallye de la région PACA et d'Italie.</index.span4.text.2>
+<index.span4.text.3>Pox a été crée en 2012 par deux développeurs amateurs. Ce projet consiste a fournir des programmes gratuits et open-sources ou des tutoriels.</index.span4.text.3>
+
+<news.title.1>Nouveautés</news.title.1>
+<news.text.1>Par</news.text.1>
+<news.text.2>PROGRAMMES</news.text.2>
+<news.text.3>SITE</news.text.3>
+
+<programs.title.nav.1>Programmes</programs.title.nav.1>
+<programs.title.nav.2>Web</programs.title.nav.2>
+<programs.title.nav.3>Tout</programs.title.nav.3>
+<programs.title.1>C'est quoi ?</programs.title.1>
+<programs.title.2>Quelques photos</programs.title.2>
+<programs.title.3>Prochaines nouveautés</programs.title.3>
+<programs.title.4>Informations</programs.title.4>
+<programs.text.1>Developpeur(s)</programs.text.1>
+<programs.text.2>Designer(s)</programs.text.2>
+<programs.text.3>Langue</programs.text.3>
+<programs.text.4>Version</programs.text.4>
+<programs.text.5>Date de création</programs.text.5>
+<programs.text.6>a écrit</programs.text.6>
+<programs.text.7>Le</programs.text.7>
+<programs.text.8>Version de</programs.text.8>
+<programs.text.9>Sortie le</programs.text.9>
+<programs.button.1>Télécharger</programs.button.1>
+<programs.button.2>Code source</programs.button.2>
+<programs.button.3>Poster</programs.button.3>
+<programs.button.4>Dernière version</programs.button.4>
+<programs.button.5>En savoir plus</programs.button.5>
+
+<wol.title.1>C'est quoi ?</wol.title.1>
+<wol.title.2>Configurer le Wake on lan</wol.title.2>
+<wol.title.3>Allumer mon ordinateur en local</wol.title.3>
+<wol.text.1>Ip ou nom de domaine</wol.text.1>
+<wol.text.2>Mac</wol.text.2>
+<wol.text.3>Port</wol.text.3>
+<wol.text.4>Wake on LAN (WoL) est un standard des réseaux Ethernet qui permet à un ordinateur éteint d'être démarré à distance. Le réveil est déclenché quand la carte Ethernet de l'ordinateur reçoit un paquet magique qui est une trame de données Ethernet contenant les octets FF FF FF FF FF FF suivis de seize répétitions de l'adresse MAC de la cible, puis d'un mot de passe (si nécessaire) de quatre ou six octets.</wol.text.4>
+<wol.text.5>La configuration du Wake on lan se fait très simplement. Nous vous recommandons fortement un tutoriel destiné à son utilisation sur le site du zéro disponible</wol.text.5>
+<wol.text.6>Ce tutoriel vous montre comment allumer votre ordinateur en local. Mais vous pourrez par la suite, en ouvrant un port (7 ou 9) sur votre box internet en UDP, allumer votre ordinateur loin de chez vous.</wol.text.6>
+<wol.text.7>Nous avons soigneusement développé un application Java pour vous permettre, à partir du site, d'allumer votre ordinateur en local. L'application est disponible</wol.text.7>
+<wol.text.8>Bravo !</wol.text.8>
+<wol.text.9>Votre ordinateur est maintenant réveillé. Vous pouvez dès à présent mettre cette page dans vos favoris pour garder cette configuration.</wol.text.9>
+<wol.text.10>Merci</wol.text.10>
+<wol.button.1>Réveiller !</wol.button.1>
+<wol.button.2>Retour</wol.button.2>
+<wol.button.3>ici</wol.button.3>
+
+<communication.nav.1>Aide</communication.nav.1>
+<communication.nav.2>Problèmes</communication.nav.2>
+<communication.nav.3>Suggestions</communication.nav.3>
+<communication.nav.4>Divers</communication.nav.4>
+
+<communication.button.1>Rechercher un sujet</communication.button.1>
+<communication.button.2>Ajouter un sujet</communication.button.2>
+<communication.button.3>Poster mon message</communication.button.3>
+<communication.button.4>Retour</communication.button.4>
+<communication.button.5>Répondre</communication.button.5>
+<communication.button.6>Annuler</communication.button.6>
+<communication.button.7>Rechercher</communication.button.7>
+
+<communication.table.1>Titre</communication.table.1>
+<communication.table.2>Posté par</communication.table.2>
+<communication.table.3>Options</communication.table.3>
+<communication.table.4>Date</communication.table.4>
+
+<communication.text.1>Aucune</communication.text.1>
+<communication.text.2>Vous devez être connecté</communication.text.2>
+<communication.text.3>sujets dans</communication.text.3>
+<communication.text.4>sujets existants</communication.text.4>
+<communication.text.5>Recherche optimisée pour</communication.text.5>
+
+<communication.new.text.1>Sujet</communication.new.text.1>
+
+<communication.setting.title.1>Informations</communication.setting.title.1>
+<communication.setting.title.2>Editer mon message</communication.setting.title.2>
+<communication.setting.title.3>Options</communication.setting.title.3>
+<communication.setting.text.1>Nom du sujet</communication.setting.text.1>
+<communication.setting.text.2>Créateur</communication.setting.text.2>
+<communication.setting.text.3>Date de création</communication.setting.text.3>
+<communication.setting.text.4>Nombre de réponses</communication.setting.text.4>
+<communication.setting.text.5>Vous ne pouvez pas éditer votre message. Vous devez attendre</communication.setting.text.5>
+<communication.setting.text.6>secondes</communication.setting.text.6>
+<communication.setting.button.1>Sauvegarder</communication.setting.button.1>
+
+<communication.subject.text.1>Sujet</communication.subject.text.1>
+<communication.subject.text.2>a écrit</communication.subject.text.2>
+<communication.subject.text.3>Le</communication.subject.text.3>
+<communication.subject.text.4>messages postés</communication.subject.text.4>
+<communication.subject.text.5>[RESOLU]</communication.subject.text.5>
+
+<contact.title.1>Nous contacter</contact.title.1>
+<contact.title.2>Vous souhaitez nous aider ?</contact.title.2>
+<contact.title.3>Je veux participer au projet !</contact.title.3>
+<contact.text.1>Le formulaire ci-dessous va vous permettre de faire votre condidature de participation au projet ( pour tout autre sujet, merci de passer par la rubrique "Communication". Nous essayerons de vous répondre dans les jours qui suivent.</contact.text.1>
+<contact.text.2>Nous vous proposons de participer au projet dans n'importe quel domaine (Designer, Programmeur). Vous pouvez aussi nous faire des dons, qui permettrons de faire vivre les serveur.</contact.text.2>
+<contact.text.3>Si vous voulez participer au projet Pox, vous devez cliquer sur le bouton "Participer" ci-dessous. Vous devez avant cela vous avoir crée un compte et vous être connecté.</contact.text.3>
+
+<contact.field.1>Nom ou pseudo</contact.field.1>
+<contact.field.2>Adresse mail</contact.field.2>
+<contact.field.3>Titre</contact.field.3>
+<contact.field.4>Message</contact.field.4>
+
+<contact.button.1>Envoyer</contact.button.1>
+<contact.button.2>Participer</contact.button.2>
+
+<account.title.1>Bienvenue</account.title.1>
+<account.title.2>Mes informations</account.title.2>
+<account.title.3>Dernière nouveautés</account.title.3>
+<account.text.1>Mot de passe</account.text.1>
+<account.text.2>Confirmation</account.text.2>
+<account.text.3>Adresse mail</account.text.3>
+<account.text.4>Age</account.text.4>
+<account.text.5>Prénom</account.text.5>
+<account.text.6>Nom</account.text.6>
+<account.text.7>Message personnel</account.text.7>
+<account.text.8>Création</account.text.8>
+<account.text.9>Non-Visible</account.text.9>
+<account.text.10>Pays</account.text.10>
+<account.text.11>Vous avez écrit</account.text.11>
+<account.text.12>Nouveau contact</account.text.12>
+<account.text.13>a écrit</account.text.13>
+<account.text.14>a ajouté dans ses contacts</account.text.14>
+<account.text.15>Vous avez ajouté</account.text.15>
+<account.text.16>dans vos contacts</account.text.16>
+<account.text.17>Bienvenue sur Pox ! Vous pouvez maintenant modifier votre profil, publier des programmes ou des tutoriels et ajouter des contacts pour discuter avec eux.</account.text.17>
+<account.text.18>Etes-vous sûr(e) de vouloir supprimer ce contact ?</account.text.18>
+<account.text.19>Please sign in</account.text.19>
+<account.button.1>Sauvegarder</account.button.1>
+<account.button.2>Pannel admin</account.button.2>
+<account.button.3>Séléctionner l'image</account.button.3>
+<account.button.4>Annuler</account.button.4>
+<account.button.5>Poster</account.button.5>
+
+<account.contact.title.1>Contacts</account.contact.title.1>
+<account.contact.title.2>Invitations des contacts</account.contact.title.2>
+<account.contact.title.3>Ajouter un contact</account.contact.title.3>
+<account.contact.text.1>Pseudo</account.contact.text.1>
+<account.contact.text.2>Message</account.contact.text.2>
+<account.contact.text.3>Envoyer</account.contact.text.3>
+<account.contact.text.4>Formulaire</account.contact.text.4>
+<account.contact.text.5>resultat(s) pour</account.contact.text.5>
+<account.contact.text.6>Pensez bien aux virgules.</account.contact.text.6>
+<account.contact.button.1>Chercher</account.contact.button.1>
+<account.contact.button.2>Ajouter le contact</account.contact.button.2>
+<account.contact.button.3>Refuser et supprimer</account.contact.button.3>
+
+<account.mails.nav.1>Boite de récéption</account.mails.nav.1>
+<account.mails.nav.2>Nouveau message</account.mails.nav.2>
+<account.mails.nav.3>Admin</account.mails.nav.3>
+<account.mails.nav.4>Aide</account.mails.nav.4>
+<account.mails.text.1>Contact</account.mails.text.1>
+<account.mails.text.2>Object</account.mails.text.2>
+<account.mails.text.3>Message</account.mails.text.3>
+<account.mails.button.1>Envoyer</account.mails.button.1>
+
+<account.news.title.1>Outils des nouveautés</account.news.title.1>
+<account.news.title.2>Poster une nouveauté</account.news.title.2>
+<account.news.nav.1>Site</account.news.nav.1>
+<account.news.nav.2>Programmes</account.news.nav.2>
+<account.news.text.1>Par</account.news.text.1>
+<account.news.text.2>Titre</account.news.text.2>
+<account.news.text.3>Informations</account.news.text.3>
+<account.news.button.1>Regarder les nouveautés</account.news.button.1>
+<account.news.button.2>Envoyer</account.news.button.2>
+
+<account.faq.title.1>Outils pour la FAQ</account.faq.title.1>
+<account.faq.title.2>Poster la question</account.faq.title.2>
+<account.faq.text.1>Question</account.faq.text.1>
+<account.faq.text.2>Informations</account.faq.text.2>
+<account.faq.button.1>Regarder la FAQ</account.faq.button.1>
+<account.faq.button.2>Envoyer</account.faq.button.2>
+
+<account.programs.nav.1>Regarder</account.programs.nav.1>
+<account.programs.nav.2>Modifier</account.programs.nav.2>
+<account.programs.nav.3>Mettre à jour</account.programs.nav.3>
+<account.programs.text.1>STATUT</account.programs.text.1>
+<account.programs.text.2>Envoyé</account.programs.text.2>
+<account.programs.text.3>Accepté</account.programs.text.3>
+<account.programs.text.4>Refusé</account.programs.text.4>
+<account.programs.button.1>Mes programmes</account.programs.button.1>
+<account.programs.button.2>Nouveau programme</account.programs.button.2>
+<account.programs.button.3>Regarder</account.programs.button.3>
+<account.programs.button.4>Télécharger</account.programs.button.4>
+<account.programs.button.5>Code source</account.programs.button.5>
+
+<participe.title.1>Formulaire de participation</participe.title.1>
+<participe.text.1>Bienvenue ! Ce formulaire est fait pour vous si vous voulez participer au projet Pox !. Ces informations permettrons à la communauté d'en connaitre un peu plus sur vous et vos connaissances.</participe.text.1>
+<participe.text.2>ATTENTION : Vous devez séparer les mots par une virgule dans les champs à plusieurs réponses.</participe.text.2>
+<participe.text.3>Quel(s) languages connaissez-vous ?</participe.text.3>
+<participe.text.4>IDE(s) que vous utilisez</participe.text.4>
+<participe.text.5>Comment avez-vous appris la programmation ?</participe.text.5>
+<participe.text.6>Votre motivation</participe.text.6>
+<participe.button.1>Envoyer & Participe</participe.button.1>
+
+<register.title.1>Inscription</register.title.1>
+<register.title.2>A quoi cela va me servir ?</register.title.2>
+<register.title.3>Valider mon compte</register.title.3>
+<register.title.4>Supprimer mon compte</register.title.4>
+<register.text.1>Pseudo</register.text.1>
+<register.text.2>Adresse mail</register.text.2>
+<register.text.3>Mot de passe</register.text.3>
+<register.text.4>Confirmation</register.text.4>
+<register.text.5>Pays</register.text.5>
+<register.text.6>Age</register.text.6>
+<register.text.7>Si vous êtes inscrit sur Pox !, vous pourrez communiquer avec l'ensemble de la communauté par le formulaire de contact, les mails et le forum.</register.text.7>
+<register.text.8>Vous avez trois essais pour valider votre compte grace au message de confirmation d'inscription reçu précédement.</register.text.8>
+<register.text.9>Vous pouvez, si vous le souhaitez, supprimer votre compte Pox!. ATTENTION, cela supprimera aussi vos contacts et vos mails.</register.text.9>
+<register.text.10>Pseudo</register.text.10>
+<register.text.11>Code cryptée</register.text.11>
+<register.text.12>Ce pseudo existe déjà</register.text.12>
+<register.text.13>Pseudo : seulement des chiffres, des lettres et -_. et pas plus de 20 caractères.</register.text.13>
+<register.text.14>Adresse mail invalide.</register.text.14>
+<register.text.15>Mot de passe trop court.</register.text.15>
+<register.text.16>Mot de passe non-identiques.</register.text.16>
+<register.text.17>Vous devez remplir tous les champs.</register.text.17>
+<register.button.1>Inscription</register.button.1>
+<register.button.2>Valider mon compte</register.button.2>
+<register.button.3>Supprimer mon compte</register.button.3>
+
+<footer.button.1>Aller en haut</footer.button.1>
+<footer.button.2>Anglais</footer.button.2>
+<footer.button.3>Français</footer.button.3>
+<footer.text.1>vues</footer.text.1>
+<footer.text.2>Programmes sous license GPL et GNU</footer.text.2>
+
+<alert.title.1>Erreur</alert.title.1>
+<alert.title.2>Attention</alert.title.2>
+<alert.text.1>Vous n'avez pas la permission pour ce sujet.</alert.text.1>
+<alert.text.2>Le site est actuellement en développement.</alert.text.2>
+<alert.text.3>Les tutoriels seront disponibles avec la version 0.4.0 du site.</alert.text.3>*
+<alert.text.4>Votre mail a bien été envoyé.</alert.text.4>
+<alert.text.5>Votre mail n'a pas été envoyé.</alert.text.5>
+<alert.text.6>Vous devez remplir tous les champs.</alert.text.6>
+<alert.text.7>Votre pseudo ou mot de passe est incorrect.</alert.text.7>
+<alert.text.8>Ce pseudo n'existe pas.</alert.text.8>
+<alert.text.9>Votre clé cryptée est valide, votre compte est activé. Vous pouvez dès à présent vous connecter.</alert.text.9>
+<alert.text.10>Votre clé cryptée est invalide.</alert.text.10>
+<alert.text.11>Vous devez renseigner un pseudo et une clé cryptée reçue dans le message de confirmation d'inscription.</alert.text.11>
+<alert.text.12>Votre compte a bien été supprimé. Nous espérons vous revoir.</alert.text.12>
+<alert.text.13>Vous devez être connecté</alert.text.13>
+<alert.error.title.1>Erreur 404</alert.error.title.1>
+<alert.error.text.1>cette page n'existe pas</alert.error.text.1>
+<alert.button.1>Modifier mon mot de passe</alert.button.1>
+
+<pagination.text.1>Avant</pagination.text.1>
+<pagination.text.2>Après</pagination.text.2>

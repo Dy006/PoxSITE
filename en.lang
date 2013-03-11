@@ -1,0 +1,316 @@
+<menu.welcome.text.1>Welcome,</menu.welcome.text.1>
+<menu.welcome.text.2>Pox is an open-source projet. Are you interested ?</menu.welcome.text.2>
+<menu.welcome.button.1>Subscribe to news</menu.welcome.button.1>
+<menu.welcome.button.2>Participe to project</menu.welcome.button.2>
+
+<menu.nav.1>Home</menu.nav.1>
+<menu.nav.2>News</menu.nav.2>
+<menu.nav.3>Programs</menu.nav.3>
+<menu.nav.4>Tutorials</menu.nav.4>
+<menu.nav.5>Wake on lan</menu.nav.5>
+<menu.nav.6>Forum</menu.nav.6>
+<menu.nav.7>Contact</menu.nav.7>
+<menu.nav.8>FAQ</menu.nav.8>
+<menu.nav.9>Registration</menu.nav.9>
+
+<menu.user.1>Home</menu.user.1>
+<menu.user.2>Contacts</menu.user.2>
+<menu.user.3>Mails</menu.user.3>
+<menu.user.4>Edit News</menu.user.4>
+<menu.user.5>Edit FAQ</menu.user.5>
+<menu.user.6>My tutorials</menu.user.6>
+<menu.user.7>My programs</menu.user.7>
+<menu.user.8>Logout</menu.user.8>
+<menu.user.9>Help</menu.user.9>
+
+<menu.signin.text.1>Username</menu.signin.text.1>
+<menu.signin.text.2>Password</menu.signin.text.2>
+<menu.signin.button.1>Sign in</menu.signin.button.1>
+
+<menu.carousel.title.1>Pox project !</menu.carousel.title.1>
+<menu.carousel.title.2>LoQuiî</menu.carousel.title.2>
+<menu.carousel.title.3>TheHanger</menu.carousel.title.3>
+<menu.carousel.title.4>PoxCMS</menu.carousel.title.4>
+<menu.carousel.text.1>Creator freeware open-source for Linux and Windows and tutorials.</menu.carousel.text.1>
+<menu.carousel.text.2>A program to discuss, lite and permanently updated.</menu.carousel.text.2>
+<menu.carousel.text.3>A hung full with multiplayer mode (two people), score and many customizable levels.</menu.carousel.text.3>
+<menu.carousel.text.4>A easy CMS for create and administrate a WebSite. This projet currently developed.</menu.carousel.text.4>
+<menu.carousel.button.1>Get started today</menu.carousel.button.1>
+
+<index.title1.1>What is Pox ?</index.title1.1>
+<index.title1.2>Want to participe ?</index.title1.2>
+<index.title1.3>Problems ?</index.title1.3>
+<index.title2.1>It's an open-source project.</index.title2.1>
+<index.title2.2>Ideas ?</index.title2.2>
+<index.title2.3>Many solutions.</index.title2.3>
+<index.text.1>Pox is a community creating utility programs free and open-source for Linux and all versions of Windows.</index.text.1>
+<index.text.2>Your are welcome to participate in the project. You must to know the programmation or design a program. If you have ideas you can send a mail of post a subject in the forum. If you want to participate, you can to click in the button "participe" in "Contact" tab.</index.text.2>
+<index.text.3>If you have a problem, you can post a subject in the forum in the rubric "Problem". An AssistanceTeam will answer soon.</index.text.3>
+
+<index.span4.button.1>Read more</index.span4.button.1>
+<index.span4.title.1>Learn the programmation</index.span4.title.1>
+<index.span4.title.2>RallyCam06 project</index.span4.title.2>
+<index.span4.title.3>Pox project</index.span4.title.3>
+<index.span4.text.1>There are many tutorials for programmation but we recommend tutorials on SDZ WebSite.</index.span4.text.1>
+<index.span4.text.2>Teo Carletti has created a project which gather videos of Rally in PACA and Italy.</index.span4.text.2>
+<index.span4.text.3>Pox has created is 2012 by two developers fan of programmation. This project gather tutorials and freeware open-sources.</index.span4.text.3>
+
+<news.title.1>News</news.title.1>
+<news.text.1>By</news.text.1>
+<news.text.2>PROGRAM</news.text.2>
+<news.text.3>WEBSITE</news.text.3>
+
+<programs.title.nav.1>Programs</programs.title.nav.1>
+<programs.title.nav.2>Web</programs.title.nav.2>
+<programs.title.nav.3>All</programs.title.nav.3>
+<programs.title.1>What is it ?</programs.title.1>
+<programs.title.2>Few photos</programs.title.2>
+<programs.title.3>Next news</programs.title.3>
+<programs.title.4>Informations</programs.title.4>
+<programs.text.1>Developer(s)</programs.text.1>
+<programs.text.2>Designer(s)</programs.text.2>
+<programs.text.3>Language</programs.text.3>
+<programs.text.4>Version</programs.text.4>
+<programs.text.5>Date of creation</programs.text.5>
+<programs.text.6>has written</programs.text.6>
+<programs.text.7>The</programs.text.7>
+<programs.text.8>Versions of</programs.text.8>
+<programs.text.9>Released on</programs.text.9>
+<programs.button.1>Download</programs.button.1>
+<programs.button.2>Source code</programs.button.2>
+<programs.button.3>Post</programs.button.3>
+<programs.button.4>Last version</programs.button.4>
+<programs.button.5>Read more</programs.button.5>
+
+<wol.title.1>What is it ?</wol.title.1>
+<wol.title.2>Configure the Wake on lan</wol.title.2>
+<wol.title.3>Wake up my PC in local</wol.title.3>
+<wol.text.1>Ip or Hostname</wol.text.1>
+<wol.text.2>Mac</wol.text.2>
+<wol.text.3>Port</wol.text.3>
+<wol.text.4>Wake on LAN (WoL) is an Ethernet standard that allows a computer to be booted off distance. The alarm is triggered when the Ethernet card in the computer receives a magic packet is a data frame containing the Ethernet bytes FF FF FF FF FF FF followed by sixteen repetitions of the target MAC address, then a word password (if needed) of four or six bytes.</wol.text.4>
+<wol.text.5>The Wake on lan configuration is very simple. We strongly recommend a tutorial for its use on the site of zero available</wol.text.5>
+<wol.text.6>This tutorial shows you how to turn on your local computer. But you can subsequently opening a port (7 or 9) on your box UDP internet, turn your computer away from home.</wol.text.6>
+<wol.text.7>We have carefully developed a Java application to help you, from the site, turn on your local computer. The application is available</wol.text.7>
+<wol.text.8>Well done !</wol.text.8>
+<wol.text.9>Your computer is now awake. You can now put this page in your favorites to keep this configuration.</wol.text.9>
+<wol.text.10>Thank you</wol.text.10>
+<wol.button.1>Wake up !</wol.button.1>
+<wol.button.2>Back</wol.button.2>
+<wol.button.3>here</wol.button.3>
+
+<forum.nav.1>Help</forum.nav.1>
+<forum.nav.2>Problems</forum.nav.2>
+<forum.nav.3>Suggests</forum.nav.3>
+<forum.nav.4>Various</forum.nav.4>
+<forum.nav.5>Add subject</forum.nav.5>
+<forum.nav.6>Search subject</forum.nav.6>
+<forum.nav.7>Help</forum.nav.7>
+<forum.table.1>Title</forum.table.1>
+<forum.table.2>Written by</forum.table.2>
+<forum.table.3>Date</forum.table.3>
+<forum.title.nav.1>Forum</forum.title.nav.1>
+<forum.title.nav.2>Other</forum.title.nav.2>
+<forum.text.1>Subject</forum.text.1>
+<forum.button.1>Post</forum.button.1>
+<forum.button.2>Answer</forum.button.2>
+
+<forum.subject.text.1>Subject</forum.subject.text.1>
+<forum.subject.text.2>has written</forum.subject.text.2>
+<forum.subject.text.3>The</forum.subject.text.3>
+<forum.subject.text.4>posted messages</forum.subject.text.4>
+<forum.subject.text.5>[SOLVE]</forum.subject.text.5>
+
+<forum.setting.title.1>Informations</forum.setting.title.1>
+<forum.setting.title.2>Edit my message</forum.setting.title.2>
+<forum.setting.title.3>Settings</forum.setting.title.3>
+<forum.setting.text.1>Name of subject</forum.setting.text.1>
+<forum.setting.text.2>Creator</forum.setting.text.2>
+<forum.setting.text.3>Date of creation</forum.setting.text.3>
+<forum.setting.text.4>Number of answers</forum.setting.text.4>
+<forum.setting.text.5>You can't edit your message. You must to wait</forum.setting.text.5>
+<forum.setting.text.6>seconds</forum.setting.text.6>
+<forum.setting.button.1>Save</forum.setting.button.1>
+
+<contact.title.1>Contact us</contact.title.1>
+<contact.title.2>You want to help us ?</contact.title.2>
+<contact.title.3>You want to participe in the project ?</contact.title.3>
+<contact.text.1>In the form, you can write problems or ideas. You can also write a topic in the forum. We will try to answer soon.</contact.text.1>
+<contact.text.2>We offer many "jobs" to participe in the project by you can do donations which will be to live the server.</contact.text.2>
+<contact.text.3>You can also participe to the project pushing the button "Participe". You must be registred and connected.</contact.text.3>
+
+<contact.field.1>Name or Username</contact.field.1>
+<contact.field.2>Email</contact.field.2>
+<contact.field.3>Title</contact.field.3>
+<contact.field.4>Message</contact.field.4>
+
+<contact.button.1>Send</contact.button.1>
+<contact.button.2>Participe</contact.button.2>
+
+<account.title.1>Welcome</account.title.1>
+<account.title.2>My informations</account.title.2>
+<account.title.3>Last news</account.title.3>
+<account.text.1>Password</account.text.1>
+<account.text.2>Confirmation</account.text.2>
+<account.text.3>Email</account.text.3>
+<account.text.4>Age</account.text.4>
+<account.text.5>First name</account.text.5>
+<account.text.6>Second name</account.text.6>
+<account.text.7>Personal message</account.text.7>
+<account.text.8>Creation</account.text.8>
+<account.text.9>Not-visible</account.text.9>
+<account.text.10>Country</account.text.10>
+<account.text.11>You have written</account.text.11>
+<account.text.12>New contact</account.text.12>
+<account.text.13>has written</account.text.13>
+<account.text.14>has added in his contacts</account.text.14>
+<account.text.15>You have added</account.text.15>
+<account.text.16>in your contacts</account.text.16>
+<account.text.17>Welcome on Pox ! You can now change your profile and add contacts to discuss with their</account.text.17>
+<account.text.18>Are you sure to delete your account ?</account.text.18>
+<account.text.19>Please sign in</account.text.19>
+<account.button.1>Save</account.button.1>
+<account.button.2>Admin panel</account.button.2>
+<account.button.3>Select image</account.button.3>
+<account.button.4>Cancel</account.button.4>
+<account.button.5>Post</account.button.5>
+
+<account.contact.title.1>Contacts</account.contact.title.1>
+<account.contact.title.2>Invitations contacts</account.contact.title.2>
+<account.contact.title.3>Add contact</account.contact.title.3>
+<account.contact.text.1>Username</account.contact.text.1>
+<account.contact.text.2>Message</account.contact.text.2>
+<account.contact.text.3>Sent</account.contact.text.3>
+<account.contact.text.4>Form</account.contact.text.4>
+<account.contact.text.5>result(s) for</account.contact.text.5>
+<account.contact.text.6>Think about the case.</account.contact.text.6>
+<account.contact.button.1>Search</account.contact.button.1>
+<account.contact.button.2>Add contact</account.contact.button.2>
+<account.contact.button.3>Refuse and delete</account.contact.button.3>
+
+<account.mails.nav.1>Inbox</account.mails.nav.1>
+<account.mails.nav.2>New message</account.mails.nav.2>
+<account.mails.nav.3>Admin</account.mails.nav.3>
+<account.mails.nav.4>Help</account.mails.nav.4>
+<account.mails.text.1>Contact</account.mails.text.1>
+<account.mails.text.2>Object</account.mails.text.2>
+<account.mails.text.3>Message</account.mails.text.3>
+<account.mails.button.1>Send</account.mails.button.1>
+
+<account.news.title.1>News tool</account.news.title.1>
+<account.news.title.2>Post news</account.news.title.2>
+<account.news.nav.1>Website</account.news.nav.1>
+<account.news.nav.2>Programs</account.news.nav.2>
+<account.news.text.1>By</account.news.text.1>
+<account.news.text.2>Title</account.news.text.2>
+<account.news.text.3>Informations</account.news.text.3>
+<account.news.button.1>Look news</account.news.button.1>
+<account.news.button.2>Send</account.news.button.2>
+
+<account.faq.title.1>FAQ tool</account.faq.title.1>
+<account.faq.title.2>Post question</account.faq.title.2>
+<account.faq.text.1>Question</account.faq.text.1>
+<account.faq.text.2>Informations</account.faq.text.2>
+<account.faq.button.1>Look FAQ</account.faq.button.1>
+<account.faq.button.2>Send</account.faq.button.2>
+
+<account.tutorials.nav.1>Look</account.tutorials.nav.1>
+<account.tutorials.nav.2>Change</account.tutorials.nav.2>
+<account.tutorials.nav.3>Update</account.tutorials.nav.3>
+<account.tutorials.text.1>STATUS</account.tutorials.text.1>
+<account.tutorials.text.2>Envoy</account.tutorials.text.2>
+<account.tutorials.text.3>Accepted</account.tutorials.text.3>
+<account.tutorials.text.4>Refused</account.tutorials.text.4>
+<account.tutorials.text.5>Your tutorial going to test. You can just modify the description of him and publish updates.</account.tutorials.text.5>
+<account.tutorials.text.6>Your tutorial is refused because it doesn't answer to the project Pox. You can still modify him to return the program in Pox.</account.tutorials.text.6>
+<account.tutorials.text.7>Your tutorial is published in the list of programs. You can modify him to valorize him and add new updates.</account.tutorials.text.7>
+<account.tutorials.button.1>My tutorials</account.tutorials.button.1>
+<account.tutorials.button.2>New tutorial</account.tutorials.button.2>
+<account.tutorials.button.3>Look</account.tutorials.button.3>
+<account.tutorials.button.4>Download</account.tutorials.button.4>
+<account.tutorials.button.5>Source code</account.tutorials.button.5>
+<account.tutorials.button.6>Renvoy my tutorial</account.tutorials.button.6>
+<account.tutorials.button.7>Send my tutorial</account.tutorials.button.7>
+
+<account.programs.nav.1>Look</account.programs.nav.1>
+<account.programs.nav.2>Change</account.programs.nav.2>
+<account.programs.nav.3>Update</account.programs.nav.3>
+<account.programs.text.1>STATUS</account.programs.text.1>
+<account.programs.text.2>Envoy</account.programs.text.2>
+<account.programs.text.3>Accepted</account.programs.text.3>
+<account.programs.text.4>Refused</account.programs.text.4>
+<account.programs.text.5>Your program going to test. You can just modify the description of him and publish updates.</account.programs.text.5>
+<account.programs.text.6>Your program is refused because it doesn't answer to the project Pox. You can still modify him to return the program in Pox.</account.programs.text.6>
+<account.programs.text.7>Your program is published in the list of programs. You can modify him to valorize him and add new updates.</account.programs.text.7>
+<account.programs.button.1>My programs</account.programs.button.1>
+<account.programs.button.2>New program</account.programs.button.2>
+<account.programs.button.3>Look</account.programs.button.3>
+<account.programs.button.4>Download</account.programs.button.4>
+<account.programs.button.5>Source code</account.programs.button.5>
+<account.programs.button.6>Renvoy my program</account.programs.button.6>
+<account.programs.button.7>Send my program</account.programs.button.7>
+
+<participe.title.1>Form to participe</participe.title.1>
+<participe.text.1>Hello ! This form is to participe in Pox project. We hope you will happy to program with community. You must to fill all of fields to know all of informations of you.</participe.text.1>
+<participe.text.2>CAUTION : You must separate words with a comma. This form must be cared.</participe.text.2>
+<participe.text.3>What language(s) ?</participe.text.3>
+<participe.text.4>IDE(s) that you use</participe.text.4>
+<participe.text.5>How did you learn programmation ?</participe.text.5>
+<participe.text.6>Your motivation</participe.text.6>
+<participe.button.1>Send & Participe</participe.button.1>
+
+<register.title.1>Registration</register.title.1>
+<register.title.2>What will it serve me ?</register.title.2>
+<register.title.3>Valid my account</register.title.3>
+<register.title.4>Delete my account</register.title.4>
+<register.text.1>Username</register.text.1>
+<register.text.2>Email</register.text.2>
+<register.text.3>Password</register.text.3>
+<register.text.4>Confirmation</register.text.4>
+<register.text.5>Country</register.text.5>
+<register.text.6>Age</register.text.6>
+<register.text.7>If you is registred, you are in the community and you can : post a program or a tutorial, ask help in the forum,talk with programers and more.</register.text.7>
+<register.text.8>You must to activate your account to connect with it.</register.text.8>
+<register.text.9>You can delete your pox account. CAUTION : it will remove your contacts and your participation to pox project.</register.text.9>
+<register.text.10>Username</register.text.10>
+<register.text.11>Crypte code</register.text.11>
+<register.text.12>This username already exist.</register.text.12>
+<register.text.13>Username : only numbers,letters and -_. no more 20 characters.</register.text.13>
+<register.text.14>Invalid email.</register.text.14>
+<register.text.15>Password too short.</register.text.15>
+<register.text.16>Passwords not the same.</register.text.16>
+<register.text.17>You must fill all of fields.</register.text.17>
+<register.button.1>Register</register.button.1>
+<register.button.2>Valid my account</register.button.2>
+<register.button.3>Delete my account</register.button.3>
+
+<footer.button.1>Got to bottom</footer.button.1>
+<footer.button.2>English</footer.button.2>
+<footer.button.3>French</footer.button.3>
+<footer.text.1>looks</footer.text.1>
+<footer.text.2>Under GPL and GNU license</footer.text.2>
+
+<alert.title.1>Error</alert.title.1>
+<alert.title.2>Caution</alert.title.2>
+<alert.text.1>You don't have permission for this subject.</alert.text.1>
+<alert.text.2>This website is actually in developpement.</alert.text.2>
+<alert.text.3>Tutorials will be available with 0.4.0 version of the website.</alert.text.3>
+<alert.text.4>Your mail has been send.</alert.text.4>
+<alert.text.5>You mail hasn't been send.</alert.text.5>
+<alert.text.6>You must fill all of fields.</alert.text.6>
+<alert.text.7>Your username or password is bad.</alert.text.7>
+<alert.text.8>This username doesn't exist.</alert.text.8>
+<alert.text.9>Your crypte code is good. Your account has been activated.</alert.text.9>
+<alert.text.10>Your crypte code isn't good.</alert.text.10>
+<alert.text.11>You need to make an username or a crypte code.</alert.text.11>
+<alert.text.12>Your account has been deleted. I hope see you.</alert.text.12>
+<alert.text.13>You must be connected</alert.text.13>
+<alert.text.14>An email is sending. Please check your email box.</alert.text.14>
+<alert.text.15>This email doesn't exist.</alert.text.15>
+<alert.text.16>This crypte code doesn't exist.</alert.text.16>
+<alert.error.title.1>Error 404</alert.error.title.1>
+<alert.error.text.1>this page doesn't exist</alert.error.text.1>
+<alert.button.1>Change my password</alert.button.1>
+
+<pagination.text.1>Prev</pagination.text.1>
+<pagination.text.2>Next</pagination.text.2>
